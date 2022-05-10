@@ -123,7 +123,7 @@ const RouteSwitch = () => {
     }
 
     return (
-        <BrowserRouter basename="/home">
+        <BrowserRouter basename="/">
         <Nav />
             <Routes>
                 <Route path='/' element={<Home />} />
