@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.c4dcc076.css",
-    "main.js": "/my-app/static/js/main.325f5f57.js",
-    "static/media/akg-headphones.png": "/my-app/static/media/akg-headphones.36c9512a9d4d78d20c17.png",
-    "static/media/ronaldinho-logic-headphones.png": "/my-app/static/media/ronaldinho-logic-headphones.b8489adc99fdc05d4dde.png",
-    "static/media/silver-genius-dual-speakers.png": "/my-app/static/media/silver-genius-dual-speakers.12ded97227ad66eed634.png",
-    "static/media/pioneer-headphones.png": "/my-app/static/media/pioneer-headphones.a2c5e9f62ace82d40abe.png",
-    "static/media/black-skye-speakers.png": "/my-app/static/media/black-skye-speakers.88c1332d242cfa9a9068.png",
-    "static/media/zelot-headphones.png": "/my-app/static/media/zelot-headphones.cd52bc82203138e6b4cb.png",
-    "static/media/s3000-speakers.png": "/my-app/static/media/s3000-speakers.51787f0dbe822d4985f5.png",
-    "static/media/logitech-speakers.png": "/my-app/static/media/logitech-speakers.28b648ec761c1643b425.png",
-    "static/media/mc-black-speakers.png": "/my-app/static/media/mc-black-speakers.8a67d1da78017dbcdd83.png",
-    "static/media/emptyCart.png": "/my-app/static/media/emptyCart.e74f61edf5e0d2231aed.png",
-    "static/media/musicIcon.png": "/my-app/static/media/musicIcon.302fd829f1633934e203.png",
-    "index.html": "/my-app/index.html",
-    "main.c4dcc076.css.map": "/my-app/static/css/main.c4dcc076.css.map",
-    "main.325f5f57.js.map": "/my-app/static/js/main.325f5f57.js.map"
+    "main.css": "/db-tunes/static/css/main.c4dcc076.css",
+    "main.js": "/db-tunes/static/js/main.132668ac.js",
+    "static/media/akg-headphones.png": "/db-tunes/static/media/akg-headphones.36c9512a9d4d78d20c17.png",
+    "static/media/ronaldinho-logic-headphones.png": "/db-tunes/static/media/ronaldinho-logic-headphones.b8489adc99fdc05d4dde.png",
+    "static/media/silver-genius-dual-speakers.png": "/db-tunes/static/media/silver-genius-dual-speakers.12ded97227ad66eed634.png",
+    "static/media/pioneer-headphones.png": "/db-tunes/static/media/pioneer-headphones.a2c5e9f62ace82d40abe.png",
+    "static/media/black-skye-speakers.png": "/db-tunes/static/media/black-skye-speakers.88c1332d242cfa9a9068.png",
+    "static/media/zelot-headphones.png": "/db-tunes/static/media/zelot-headphones.cd52bc82203138e6b4cb.png",
+    "static/media/s3000-speakers.png": "/db-tunes/static/media/s3000-speakers.51787f0dbe822d4985f5.png",
+    "static/media/logitech-speakers.png": "/db-tunes/static/media/logitech-speakers.28b648ec761c1643b425.png",
+    "static/media/mc-black-speakers.png": "/db-tunes/static/media/mc-black-speakers.8a67d1da78017dbcdd83.png",
+    "static/media/emptyCart.png": "/db-tunes/static/media/emptyCart.e74f61edf5e0d2231aed.png",
+    "static/media/musicIcon.png": "/db-tunes/static/media/musicIcon.302fd829f1633934e203.png",
+    "index.html": "/db-tunes/index.html",
+    "main.c4dcc076.css.map": "/db-tunes/static/css/main.c4dcc076.css.map",
+    "main.132668ac.js.map": "/db-tunes/static/js/main.132668ac.js.map"
   },
   "entrypoints": [
     "static/css/main.c4dcc076.css",
-    "static/js/main.325f5f57.js"
+    "static/js/main.132668ac.js"
   ]
 }
