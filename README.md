@@ -14,7 +14,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">DB Tunes: Marketplace for Audio Equipment</h3>
+<h3 align="center">DB Tunes: Marketplace for Audio Equipment (Created April 2022)</h3>
 
   <p align="center">
     The best place to find headphones! (fictional store)
