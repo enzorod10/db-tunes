@@ -29,8 +29,14 @@
   </p>
 </div>
 
-![dbtunesscreenshot](https://user-images.githubusercontent.com/93365813/193398197-b5ac2361-1a0a-43c8-8e5e-337ba43b93f4.png)
-
+<div align="center">
+  
+![dbtunes2](https://user-images.githubusercontent.com/93365813/193401921-916d072c-8980-423e-9cfa-200592b516cc.png)
+  
+![dbtunes](https://user-images.githubusercontent.com/93365813/193401842-6139e622-2a1a-49a2-8017-2678f7e5e56d.png)
+  
+  
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
