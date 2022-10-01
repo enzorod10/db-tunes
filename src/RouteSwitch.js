@@ -123,7 +123,7 @@ const RouteSwitch = () => {
     }
 
     return (
-        <BrowserRouter basename="/">
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Nav />
             <Routes>
                 <Route path='/' element={<Home />} />
