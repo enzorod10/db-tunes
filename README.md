@@ -16,7 +16,7 @@
 <h3 align="center">DB Tunes: Marketplace for Audio Equipment (Created April 2022)</h3>
 
   <p align="center">
-    The best place to find headphones! (fictional store)
+    The best place to find speakers and headphones! (fictional store)
     <br />
     <a href="https://github.com/enzorod10/db-tunes"><strong>Explore the docs »</strong></a>
     <br />
