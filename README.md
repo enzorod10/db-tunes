@@ -10,9 +10,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/enzorod10/db-tunes">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
+![musicIcon](https://user-images.githubusercontent.com/93365813/193397970-07b6744d-74dd-4c27-b809-2f4042f9ac61.png)
 
 <h3 align="center">DB Tunes: Marketplace for Audio Equipment (Created April 2022)</h3>
 
@@ -29,6 +28,9 @@
     <a href="https://github.com/enzorod10/db-tunes/issues">Request Feature</a>
   </p>
 </div>
+
+![dbtunesscreenshot](https://user-images.githubusercontent.com/93365813/193398197-b5ac2361-1a0a-43c8-8e5e-337ba43b93f4.png)
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -140,4 +142,3 @@ Project Link: [https://github.com/enzorod10/db-tunes](https://github.com/enzorod
 [license-url]: https://github.com/enzorod10/db-tunes/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/enzo-rod
-[product-screenshot]: images/screenshot.png
